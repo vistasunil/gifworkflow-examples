@@ -1,1 +1,1 @@
-trigger workflow2
+trigger workflow
